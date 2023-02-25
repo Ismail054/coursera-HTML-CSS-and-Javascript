@@ -1,0 +1,9 @@
+# Site settings
+title: HTML-CSS-Javascript
+author:
+  name: Muhammad Ismail
+  email: 2021f-mulbscs-054@mul.edu.pk
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
